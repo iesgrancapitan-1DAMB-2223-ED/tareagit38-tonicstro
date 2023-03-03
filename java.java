@@ -1,5 +1,6 @@
 public class HolaMundo {
    public static void main(String[] args) {
-      system.out.println("¡Hola, mundo!");
+	// Muestra por pantalla el mensaje escrito
+      System.out.println("¡Hola, mundo!");
    }
 }
